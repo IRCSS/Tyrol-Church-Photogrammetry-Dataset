@@ -5,7 +5,7 @@ A Dataset containing drone images used for photogrammetry reconstruction. The su
 
 The repo also contains a PPI license for Reality Capture. So if you are using RC, you can reconstruct this data set with no additional costs on you. 
 
-You can see an example reconstruciton in my sketfab: https://skfb.ly/6TW8s
+You can see an example reconstruction in my sketchfab: https://skfb.ly/6TW8s
 
 ![screenshot](SouthTyrolChurch.gif)
 
